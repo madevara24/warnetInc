@@ -1,2 +1,2 @@
 # warnetInc
-Final Project for Game Mechanics subject on third semester
+Final Project for Game Mechanics subject on fourth semester
